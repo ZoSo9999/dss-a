@@ -10,6 +10,7 @@ header = None                       # Non è presente header nel file di input
 sname = "DatiOriginali"             # Nome del foglio da leggere
 nmacchine = 5                       # Numero di macchine del processo
 schedule = []
+ottimo_cor = sys.maxsize
 
 
 def creaDizionario(nj,nc,nr):
@@ -43,7 +44,35 @@ def scegliConfigurazione(nc,dict,job,init):
                     break
     return config
 
-
+def creaSchedule(dict):
+    global schedule
+    cpy = schedule.copy()
+    cpy.reverse()
+    j1 = dict[cpy.pop()]
+    times = []
+    times.append(j1[0])
+    for i in range(1,nmacchine):
+        times.append(j1[i]+times[i-1])
+    while cpy:
+        j2 = dict[cpy.pop()]
+        m = 0
+        while m+1 < nmacchine:
+            i = 1
+            x = j1[m+1]
+            y = j2[m]
+            while y >= x and m+1+i < nmacchine:
+                x += j1[m+1+i]
+                y += j2[m+i]
+                i += 1
+            if (y >= x): break
+            m +=1
+        times[m] += j2[m]
+        for j in range(m-1,-1,-1):
+            times[j] = times[j+1]-j2[j+1]
+        for k in range(m+1,nmacchine):
+            times[k] = times[k-1]+j2[k]
+        j1 = j2
+    return times[nmacchine-1]
 
 
 #####################################################################################################################################
@@ -58,6 +87,12 @@ d = creaDizionario(njob,nconfigrazioni,nrighe)
 for i in range(1,njob+1):
     config = scegliConfigurazione(nconfigrazioni,d,i,True)
 print(schedule)
+
+time = creaSchedule(d)
+if  (time < ottimo_cor):
+    ottimo_cor = time
+print(ottimo_cor)
+
 config = scegliConfigurazione(nconfigrazioni,d,20,False)
 print(schedule)
 
