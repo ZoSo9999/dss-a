@@ -11,6 +11,7 @@ sname = "DatiOriginali"             # Nome del foglio da leggere
 nmacchine = 5                       # Numero di macchine del processo
 schedule = []
 ottimo_cor = sys.maxsize
+ottimo_schedule = []
 
 
 def creaDizionario(nj,nc,nr):
@@ -22,16 +23,15 @@ def creaDizionario(nj,nc,nr):
         schedule = pd.read_excel(fin, header=header, sheet_name=sname, skiprows=skiprows, nrows=nmacchine, usecols=[col]).squeeze("columns").array
         id = ((i%20)+1)*100+col+1       # Per trovare una configurazione njob*100+nconfigurazione (njob ∈ [1,20] e ncofigurazione ∈ [1,40]
         dict[id]=schedule
-    print("Ho creato il dizionario delle configurazioni con successo")
     return dict
 
 
 def scegliConfigurazione(nc,dict,job,init):
     global schedule
-    id = job*100+random.randint(1, nc)
-    config = dict[id]
+    new = job*100+random.randint(1, nc)
+    #config = dict[id]
     if init:
-        schedule.append(id)
+        schedule.append(new)
     else:
         min = job*100
         max = (job+1)*100
@@ -40,9 +40,10 @@ def scegliConfigurazione(nc,dict,job,init):
                 if schedule[i] == job:
                     return scegliConfigurazione(nc,dict,job,init)
                 else:
-                    schedule[i] = id
+                    old = schedule[i]
+                    schedule[i] = new
                     break
-    return config
+    return (old,new) 
 
 def creaSchedule(dict):
     global schedule
@@ -84,15 +85,29 @@ njob = int(nrighe/nmacchine)        # Numero job da eseguire
 nconfigrazioni = dimensions[1]      # Numero delle diverse configurazioni trovate
 
 d = creaDizionario(njob,nconfigrazioni,nrighe)
-for i in range(1,njob+1):
-    config = scegliConfigurazione(nconfigrazioni,d,i,True)
-print(schedule)
+print("Setup iniziale eseguito correttamente.")
 
+for i in range(1,njob+1):
+    scegliConfigurazione(nconfigrazioni,d,i,True)
 time = creaSchedule(d)
 if  (time < ottimo_cor):
     ottimo_cor = time
-print(ottimo_cor)
+print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule))
+print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+"\n")
 
-config = scegliConfigurazione(nconfigrazioni,d,20,False)
-print(schedule)
+niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire\n")
+
+for i in range(niterazioni):
+    print("Iterazione #"+str(i+1))
+    (old,new) = scegliConfigurazione(nconfigrazioni,d,(i%njob)+1,False)
+    print(str(old)+" -> "+str(new))
+    time = creaSchedule(d)
+    print("Il tempo impiegato dalla configurazione attuale è "+str(time))
+    if  (time < ottimo_cor):
+        ottimo_cor = time
+        ottimo_schedule = schedule
+    print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n")
+
+
+
 
