@@ -85,29 +85,29 @@ njob = int(nrighe/nmacchine)        # Numero job da eseguire
 nconfigrazioni = dimensions[1]      # Numero delle diverse configurazioni trovate
 
 d = creaDizionario(njob,nconfigrazioni,nrighe)
-print("Setup iniziale eseguito correttamente.")
+print("Setup iniziale eseguito correttamente.", file=fout)
 
 for i in range(1,njob+1):
     scegliConfigurazione(nconfigrazioni,d,i,True)
 time = creaSchedule(d)
 if  (time < ottimo_cor):
     ottimo_cor = time
-print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".")
-print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+".\n")
+print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".", file=fout)
+print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+".\n", file=fout)
 
 niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire:\n")
 
 for i in range(int(niterazioni)):
-    print("Iterazione #"+str(i+1))
+    print("Iterazione #"+str(i+1), file=fout)
     (old,new) = scegliConfigurazione(nconfigrazioni,d,(i%njob)+1,False)
-    print(str(old)+" -> "+str(new))
+    print(str(old)+" -> "+str(new), file=fout)
     time = creaSchedule(d)
-    print("Il tempo impiegato dalla configurazione attuale è "+str(time))
+    print("Il tempo impiegato dalla configurazione attuale è "+str(time), file=fout)
     if  (time < ottimo_cor):
         ottimo_cor = time
         ottimo_schedule = schedule
-    print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n")
+    print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n", file=fout)
 
-print("Completate "+niterazioni+" iterazioni.")
-print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(schedule)+ ".\n")
+print("Completate "+niterazioni+" iterazioni.", file=fout)
+print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(schedule)+ ".\n", file=fout)
 

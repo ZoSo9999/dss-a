@@ -1,0 +1,2507 @@
+Setup iniziale eseguito correttamente.
+Scelta una configurazione iniziale casuale per tutti i job: [116, 233, 324, 437, 529, 625, 708, 822, 906, 1031, 1130, 1204, 1302, 1420, 1529, 1625, 1715, 1822, 1937, 2027].
+Il tempo impiegato dalla configurazione iniziale è 969.
+
+Iterazione #1
+116 -> 139
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 969
+
+Iterazione #2
+233 -> 201
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 969
+
+Iterazione #3
+324 -> 317
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 969
+
+Iterazione #4
+437 -> 405
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 969
+
+Iterazione #5
+529 -> 511
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 969
+
+Iterazione #6
+625 -> 603
+Il tempo impiegato dalla configurazione attuale è 1067
+L'ottimo corrente è pari a 969
+
+Iterazione #7
+708 -> 721
+Il tempo impiegato dalla configurazione attuale è 1050
+L'ottimo corrente è pari a 969
+
+Iterazione #8
+822 -> 820
+Il tempo impiegato dalla configurazione attuale è 1048
+L'ottimo corrente è pari a 969
+
+Iterazione #9
+906 -> 931
+Il tempo impiegato dalla configurazione attuale è 1047
+L'ottimo corrente è pari a 969
+
+Iterazione #10
+1031 -> 1031
+Il tempo impiegato dalla configurazione attuale è 1047
+L'ottimo corrente è pari a 969
+
+Iterazione #11
+1130 -> 1122
+Il tempo impiegato dalla configurazione attuale è 1053
+L'ottimo corrente è pari a 969
+
+Iterazione #12
+1204 -> 1236
+Il tempo impiegato dalla configurazione attuale è 1040
+L'ottimo corrente è pari a 969
+
+Iterazione #13
+1302 -> 1340
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 969
+
+Iterazione #14
+1420 -> 1410
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 969
+
+Iterazione #15
+1529 -> 1532
+Il tempo impiegato dalla configurazione attuale è 1022
+L'ottimo corrente è pari a 969
+
+Iterazione #16
+1625 -> 1631
+Il tempo impiegato dalla configurazione attuale è 1039
+L'ottimo corrente è pari a 969
+
+Iterazione #17
+1715 -> 1721
+Il tempo impiegato dalla configurazione attuale è 1039
+L'ottimo corrente è pari a 969
+
+Iterazione #18
+1822 -> 1826
+Il tempo impiegato dalla configurazione attuale è 1041
+L'ottimo corrente è pari a 969
+
+Iterazione #19
+1937 -> 1924
+Il tempo impiegato dalla configurazione attuale è 1029
+L'ottimo corrente è pari a 969
+
+Iterazione #20
+2027 -> 2030
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 969
+
+Iterazione #21
+139 -> 131
+Il tempo impiegato dalla configurazione attuale è 1046
+L'ottimo corrente è pari a 969
+
+Iterazione #22
+201 -> 207
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 969
+
+Iterazione #23
+317 -> 338
+Il tempo impiegato dalla configurazione attuale è 1016
+L'ottimo corrente è pari a 969
+
+Iterazione #24
+405 -> 402
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 969
+
+Iterazione #25
+511 -> 537
+Il tempo impiegato dalla configurazione attuale è 999
+L'ottimo corrente è pari a 969
+
+Iterazione #26
+603 -> 615
+Il tempo impiegato dalla configurazione attuale è 971
+L'ottimo corrente è pari a 969
+
+Iterazione #27
+721 -> 708
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 969
+
+Iterazione #28
+820 -> 836
+Il tempo impiegato dalla configurazione attuale è 990
+L'ottimo corrente è pari a 969
+
+Iterazione #29
+931 -> 908
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 969
+
+Iterazione #30
+1031 -> 1014
+Il tempo impiegato dalla configurazione attuale è 984
+L'ottimo corrente è pari a 969
+
+Iterazione #31
+1122 -> 1115
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 969
+
+Iterazione #32
+1236 -> 1208
+Il tempo impiegato dalla configurazione attuale è 979
+L'ottimo corrente è pari a 969
+
+Iterazione #33
+1340 -> 1319
+Il tempo impiegato dalla configurazione attuale è 993
+L'ottimo corrente è pari a 969
+
+Iterazione #34
+1410 -> 1440
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 969
+
+Iterazione #35
+1532 -> 1534
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 969
+
+Iterazione #36
+1631 -> 1613
+Il tempo impiegato dalla configurazione attuale è 987
+L'ottimo corrente è pari a 969
+
+Iterazione #37
+1721 -> 1718
+Il tempo impiegato dalla configurazione attuale è 987
+L'ottimo corrente è pari a 969
+
+Iterazione #38
+1826 -> 1840
+Il tempo impiegato dalla configurazione attuale è 997
+L'ottimo corrente è pari a 969
+
+Iterazione #39
+1924 -> 1903
+Il tempo impiegato dalla configurazione attuale è 1000
+L'ottimo corrente è pari a 969
+
+Iterazione #40
+2030 -> 2032
+Il tempo impiegato dalla configurazione attuale è 990
+L'ottimo corrente è pari a 969
+
+Iterazione #41
+131 -> 129
+Il tempo impiegato dalla configurazione attuale è 976
+L'ottimo corrente è pari a 969
+
+Iterazione #42
+207 -> 212
+Il tempo impiegato dalla configurazione attuale è 965
+L'ottimo corrente è pari a 965
+
+Iterazione #43
+338 -> 321
+Il tempo impiegato dalla configurazione attuale è 977
+L'ottimo corrente è pari a 965
+
+Iterazione #44
+402 -> 423
+Il tempo impiegato dalla configurazione attuale è 958
+L'ottimo corrente è pari a 958
+
+Iterazione #45
+537 -> 533
+Il tempo impiegato dalla configurazione attuale è 954
+L'ottimo corrente è pari a 954
+
+Iterazione #46
+615 -> 639
+Il tempo impiegato dalla configurazione attuale è 958
+L'ottimo corrente è pari a 954
+
+Iterazione #47
+708 -> 715
+Il tempo impiegato dalla configurazione attuale è 955
+L'ottimo corrente è pari a 954
+
+Iterazione #48
+836 -> 809
+Il tempo impiegato dalla configurazione attuale è 966
+L'ottimo corrente è pari a 954
+
+Iterazione #49
+908 -> 910
+Il tempo impiegato dalla configurazione attuale è 962
+L'ottimo corrente è pari a 954
+
+Iterazione #50
+1014 -> 1015
+Il tempo impiegato dalla configurazione attuale è 960
+L'ottimo corrente è pari a 954
+
+Iterazione #51
+1115 -> 1110
+Il tempo impiegato dalla configurazione attuale è 973
+L'ottimo corrente è pari a 954
+
+Iterazione #52
+1208 -> 1204
+Il tempo impiegato dalla configurazione attuale è 980
+L'ottimo corrente è pari a 954
+
+Iterazione #53
+1319 -> 1309
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 954
+
+Iterazione #54
+1440 -> 1437
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 954
+
+Iterazione #55
+1534 -> 1523
+Il tempo impiegato dalla configurazione attuale è 987
+L'ottimo corrente è pari a 954
+
+Iterazione #56
+1613 -> 1634
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 954
+
+Iterazione #57
+1718 -> 1716
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 954
+
+Iterazione #58
+1840 -> 1834
+Il tempo impiegato dalla configurazione attuale è 990
+L'ottimo corrente è pari a 954
+
+Iterazione #59
+1903 -> 1918
+Il tempo impiegato dalla configurazione attuale è 980
+L'ottimo corrente è pari a 954
+
+Iterazione #60
+2032 -> 2009
+Il tempo impiegato dalla configurazione attuale è 1006
+L'ottimo corrente è pari a 954
+
+Iterazione #61
+129 -> 125
+Il tempo impiegato dalla configurazione attuale è 1003
+L'ottimo corrente è pari a 954
+
+Iterazione #62
+212 -> 210
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 954
+
+Iterazione #63
+321 -> 333
+Il tempo impiegato dalla configurazione attuale è 1009
+L'ottimo corrente è pari a 954
+
+Iterazione #64
+423 -> 433
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 954
+
+Iterazione #65
+533 -> 524
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 954
+
+Iterazione #66
+639 -> 628
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 954
+
+Iterazione #67
+715 -> 729
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 954
+
+Iterazione #68
+809 -> 829
+Il tempo impiegato dalla configurazione attuale è 990
+L'ottimo corrente è pari a 954
+
+Iterazione #69
+910 -> 929
+Il tempo impiegato dalla configurazione attuale è 980
+L'ottimo corrente è pari a 954
+
+Iterazione #70
+1015 -> 1003
+Il tempo impiegato dalla configurazione attuale è 1007
+L'ottimo corrente è pari a 954
+
+Iterazione #71
+1110 -> 1120
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 954
+
+Iterazione #72
+1204 -> 1223
+Il tempo impiegato dalla configurazione attuale è 962
+L'ottimo corrente è pari a 954
+
+Iterazione #73
+1309 -> 1303
+Il tempo impiegato dalla configurazione attuale è 969
+L'ottimo corrente è pari a 954
+
+Iterazione #74
+1437 -> 1412
+Il tempo impiegato dalla configurazione attuale è 975
+L'ottimo corrente è pari a 954
+
+Iterazione #75
+1523 -> 1521
+Il tempo impiegato dalla configurazione attuale è 975
+L'ottimo corrente è pari a 954
+
+Iterazione #76
+1634 -> 1601
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 954
+
+Iterazione #77
+1716 -> 1725
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 954
+
+Iterazione #78
+1834 -> 1804
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 954
+
+Iterazione #79
+1918 -> 1901
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 954
+
+Iterazione #80
+2009 -> 2002
+Il tempo impiegato dalla configurazione attuale è 1063
+L'ottimo corrente è pari a 954
+
+Iterazione #81
+125 -> 104
+Il tempo impiegato dalla configurazione attuale è 1071
+L'ottimo corrente è pari a 954
+
+Iterazione #82
+210 -> 226
+Il tempo impiegato dalla configurazione attuale è 1061
+L'ottimo corrente è pari a 954
+
+Iterazione #83
+333 -> 317
+Il tempo impiegato dalla configurazione attuale è 1055
+L'ottimo corrente è pari a 954
+
+Iterazione #84
+433 -> 404
+Il tempo impiegato dalla configurazione attuale è 1075
+L'ottimo corrente è pari a 954
+
+Iterazione #85
+524 -> 501
+Il tempo impiegato dalla configurazione attuale è 1107
+L'ottimo corrente è pari a 954
+
+Iterazione #86
+628 -> 602
+Il tempo impiegato dalla configurazione attuale è 1137
+L'ottimo corrente è pari a 954
+
+Iterazione #87
+729 -> 714
+Il tempo impiegato dalla configurazione attuale è 1138
+L'ottimo corrente è pari a 954
+
+Iterazione #88
+829 -> 834
+Il tempo impiegato dalla configurazione attuale è 1142
+L'ottimo corrente è pari a 954
+
+Iterazione #89
+929 -> 925
+Il tempo impiegato dalla configurazione attuale è 1139
+L'ottimo corrente è pari a 954
+
+Iterazione #90
+1003 -> 1001
+Il tempo impiegato dalla configurazione attuale è 1147
+L'ottimo corrente è pari a 954
+
+Iterazione #91
+1120 -> 1111
+Il tempo impiegato dalla configurazione attuale è 1159
+L'ottimo corrente è pari a 954
+
+Iterazione #92
+1223 -> 1230
+Il tempo impiegato dalla configurazione attuale è 1153
+L'ottimo corrente è pari a 954
+
+Iterazione #93
+1303 -> 1336
+Il tempo impiegato dalla configurazione attuale è 1145
+L'ottimo corrente è pari a 954
+
+Iterazione #94
+1412 -> 1421
+Il tempo impiegato dalla configurazione attuale è 1145
+L'ottimo corrente è pari a 954
+
+Iterazione #95
+1521 -> 1522
+Il tempo impiegato dalla configurazione attuale è 1141
+L'ottimo corrente è pari a 954
+
+Iterazione #96
+1601 -> 1625
+Il tempo impiegato dalla configurazione attuale è 1106
+L'ottimo corrente è pari a 954
+
+Iterazione #97
+1725 -> 1733
+Il tempo impiegato dalla configurazione attuale è 1114
+L'ottimo corrente è pari a 954
+
+Iterazione #98
+1804 -> 1814
+Il tempo impiegato dalla configurazione attuale è 1091
+L'ottimo corrente è pari a 954
+
+Iterazione #99
+1901 -> 1928
+Il tempo impiegato dalla configurazione attuale è 1049
+L'ottimo corrente è pari a 954
+
+Iterazione #100
+2002 -> 2038
+Il tempo impiegato dalla configurazione attuale è 1029
+L'ottimo corrente è pari a 954
+
+Iterazione #101
+104 -> 113
+Il tempo impiegato dalla configurazione attuale è 1025
+L'ottimo corrente è pari a 954
+
+Iterazione #102
+226 -> 228
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 954
+
+Iterazione #103
+317 -> 332
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 954
+
+Iterazione #104
+404 -> 421
+Il tempo impiegato dalla configurazione attuale è 1006
+L'ottimo corrente è pari a 954
+
+Iterazione #105
+501 -> 509
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 954
+
+Iterazione #106
+602 -> 604
+Il tempo impiegato dalla configurazione attuale è 982
+L'ottimo corrente è pari a 954
+
+Iterazione #107
+714 -> 707
+Il tempo impiegato dalla configurazione attuale è 995
+L'ottimo corrente è pari a 954
+
+Iterazione #108
+834 -> 813
+Il tempo impiegato dalla configurazione attuale è 996
+L'ottimo corrente è pari a 954
+
+Iterazione #109
+925 -> 926
+Il tempo impiegato dalla configurazione attuale è 1007
+L'ottimo corrente è pari a 954
+
+Iterazione #110
+1001 -> 1016
+Il tempo impiegato dalla configurazione attuale è 977
+L'ottimo corrente è pari a 954
+
+Iterazione #111
+1111 -> 1137
+Il tempo impiegato dalla configurazione attuale è 977
+L'ottimo corrente è pari a 954
+
+Iterazione #112
+1230 -> 1227
+Il tempo impiegato dalla configurazione attuale è 977
+L'ottimo corrente è pari a 954
+
+Iterazione #113
+1336 -> 1315
+Il tempo impiegato dalla configurazione attuale è 960
+L'ottimo corrente è pari a 954
+
+Iterazione #114
+1421 -> 1438
+Il tempo impiegato dalla configurazione attuale è 971
+L'ottimo corrente è pari a 954
+
+Iterazione #115
+1522 -> 1516
+Il tempo impiegato dalla configurazione attuale è 971
+L'ottimo corrente è pari a 954
+
+Iterazione #116
+1625 -> 1615
+Il tempo impiegato dalla configurazione attuale è 971
+L'ottimo corrente è pari a 954
+
+Iterazione #117
+1733 -> 1735
+Il tempo impiegato dalla configurazione attuale è 970
+L'ottimo corrente è pari a 954
+
+Iterazione #118
+1814 -> 1811
+Il tempo impiegato dalla configurazione attuale è 981
+L'ottimo corrente è pari a 954
+
+Iterazione #119
+1928 -> 1923
+Il tempo impiegato dalla configurazione attuale è 981
+L'ottimo corrente è pari a 954
+
+Iterazione #120
+2038 -> 2027
+Il tempo impiegato dalla configurazione attuale è 976
+L'ottimo corrente è pari a 954
+
+Iterazione #121
+113 -> 125
+Il tempo impiegato dalla configurazione attuale è 987
+L'ottimo corrente è pari a 954
+
+Iterazione #122
+228 -> 221
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 954
+
+Iterazione #123
+332 -> 334
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 954
+
+Iterazione #124
+421 -> 428
+Il tempo impiegato dalla configurazione attuale è 975
+L'ottimo corrente è pari a 954
+
+Iterazione #125
+509 -> 512
+Il tempo impiegato dalla configurazione attuale è 968
+L'ottimo corrente è pari a 954
+
+Iterazione #126
+604 -> 626
+Il tempo impiegato dalla configurazione attuale è 940
+L'ottimo corrente è pari a 940
+
+Iterazione #127
+707 -> 736
+Il tempo impiegato dalla configurazione attuale è 924
+L'ottimo corrente è pari a 924
+
+Iterazione #128
+813 -> 835
+Il tempo impiegato dalla configurazione attuale è 939
+L'ottimo corrente è pari a 924
+
+Iterazione #129
+926 -> 909
+Il tempo impiegato dalla configurazione attuale è 938
+L'ottimo corrente è pari a 924
+
+Iterazione #130
+1016 -> 1026
+Il tempo impiegato dalla configurazione attuale è 938
+L'ottimo corrente è pari a 924
+
+Iterazione #131
+1137 -> 1116
+Il tempo impiegato dalla configurazione attuale è 925
+L'ottimo corrente è pari a 924
+
+Iterazione #132
+1227 -> 1221
+Il tempo impiegato dalla configurazione attuale è 932
+L'ottimo corrente è pari a 924
+
+Iterazione #133
+1315 -> 1318
+Il tempo impiegato dalla configurazione attuale è 932
+L'ottimo corrente è pari a 924
+
+Iterazione #134
+1438 -> 1424
+Il tempo impiegato dalla configurazione attuale è 920
+L'ottimo corrente è pari a 920
+
+Iterazione #135
+1516 -> 1512
+Il tempo impiegato dalla configurazione attuale è 918
+L'ottimo corrente è pari a 918
+
+Iterazione #136
+1615 -> 1608
+Il tempo impiegato dalla configurazione attuale è 931
+L'ottimo corrente è pari a 918
+
+Iterazione #137
+1735 -> 1723
+Il tempo impiegato dalla configurazione attuale è 936
+L'ottimo corrente è pari a 918
+
+Iterazione #138
+1811 -> 1831
+Il tempo impiegato dalla configurazione attuale è 936
+L'ottimo corrente è pari a 918
+
+Iterazione #139
+1923 -> 1913
+Il tempo impiegato dalla configurazione attuale è 936
+L'ottimo corrente è pari a 918
+
+Iterazione #140
+2027 -> 2023
+Il tempo impiegato dalla configurazione attuale è 940
+L'ottimo corrente è pari a 918
+
+Iterazione #141
+125 -> 116
+Il tempo impiegato dalla configurazione attuale è 941
+L'ottimo corrente è pari a 918
+
+Iterazione #142
+221 -> 229
+Il tempo impiegato dalla configurazione attuale è 941
+L'ottimo corrente è pari a 918
+
+Iterazione #143
+334 -> 338
+Il tempo impiegato dalla configurazione attuale è 946
+L'ottimo corrente è pari a 918
+
+Iterazione #144
+428 -> 436
+Il tempo impiegato dalla configurazione attuale è 959
+L'ottimo corrente è pari a 918
+
+Iterazione #145
+512 -> 504
+Il tempo impiegato dalla configurazione attuale è 974
+L'ottimo corrente è pari a 918
+
+Iterazione #146
+626 -> 624
+Il tempo impiegato dalla configurazione attuale è 974
+L'ottimo corrente è pari a 918
+
+Iterazione #147
+736 -> 726
+Il tempo impiegato dalla configurazione attuale è 966
+L'ottimo corrente è pari a 918
+
+Iterazione #148
+835 -> 840
+Il tempo impiegato dalla configurazione attuale è 967
+L'ottimo corrente è pari a 918
+
+Iterazione #149
+909 -> 934
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #150
+1026 -> 1038
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 918
+
+Iterazione #151
+1116 -> 1126
+Il tempo impiegato dalla configurazione attuale è 991
+L'ottimo corrente è pari a 918
+
+Iterazione #152
+1221 -> 1217
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 918
+
+Iterazione #153
+1318 -> 1334
+Il tempo impiegato dalla configurazione attuale è 996
+L'ottimo corrente è pari a 918
+
+Iterazione #154
+1424 -> 1434
+Il tempo impiegato dalla configurazione attuale è 1000
+L'ottimo corrente è pari a 918
+
+Iterazione #155
+1512 -> 1522
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 918
+
+Iterazione #156
+1608 -> 1601
+Il tempo impiegato dalla configurazione attuale è 1019
+L'ottimo corrente è pari a 918
+
+Iterazione #157
+1723 -> 1712
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #158
+1831 -> 1801
+Il tempo impiegato dalla configurazione attuale è 1060
+L'ottimo corrente è pari a 918
+
+Iterazione #159
+1913 -> 1932
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #160
+2023 -> 2028
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #161
+116 -> 123
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 918
+
+Iterazione #162
+229 -> 229
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 918
+
+Iterazione #163
+338 -> 323
+Il tempo impiegato dalla configurazione attuale è 1047
+L'ottimo corrente è pari a 918
+
+Iterazione #164
+436 -> 407
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #165
+504 -> 530
+Il tempo impiegato dalla configurazione attuale è 1029
+L'ottimo corrente è pari a 918
+
+Iterazione #166
+624 -> 620
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #167
+726 -> 712
+Il tempo impiegato dalla configurazione attuale è 1015
+L'ottimo corrente è pari a 918
+
+Iterazione #168
+840 -> 832
+Il tempo impiegato dalla configurazione attuale è 1012
+L'ottimo corrente è pari a 918
+
+Iterazione #169
+934 -> 926
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #170
+1038 -> 1039
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #171
+1126 -> 1101
+Il tempo impiegato dalla configurazione attuale è 1022
+L'ottimo corrente è pari a 918
+
+Iterazione #172
+1217 -> 1235
+Il tempo impiegato dalla configurazione attuale è 1022
+L'ottimo corrente è pari a 918
+
+Iterazione #173
+1334 -> 1338
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #174
+1434 -> 1423
+Il tempo impiegato dalla configurazione attuale è 1019
+L'ottimo corrente è pari a 918
+
+Iterazione #175
+1522 -> 1539
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #176
+1601 -> 1613
+Il tempo impiegato dalla configurazione attuale è 992
+L'ottimo corrente è pari a 918
+
+Iterazione #177
+1712 -> 1721
+Il tempo impiegato dalla configurazione attuale è 984
+L'ottimo corrente è pari a 918
+
+Iterazione #178
+1801 -> 1820
+Il tempo impiegato dalla configurazione attuale è 953
+L'ottimo corrente è pari a 918
+
+Iterazione #179
+1932 -> 1919
+Il tempo impiegato dalla configurazione attuale è 941
+L'ottimo corrente è pari a 918
+
+Iterazione #180
+2028 -> 2008
+Il tempo impiegato dalla configurazione attuale è 963
+L'ottimo corrente è pari a 918
+
+Iterazione #181
+123 -> 116
+Il tempo impiegato dalla configurazione attuale è 960
+L'ottimo corrente è pari a 918
+
+Iterazione #182
+229 -> 203
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 918
+
+Iterazione #183
+323 -> 320
+Il tempo impiegato dalla configurazione attuale è 991
+L'ottimo corrente è pari a 918
+
+Iterazione #184
+407 -> 403
+Il tempo impiegato dalla configurazione attuale è 997
+L'ottimo corrente è pari a 918
+
+Iterazione #185
+530 -> 507
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #186
+620 -> 638
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 918
+
+Iterazione #187
+712 -> 735
+Il tempo impiegato dalla configurazione attuale è 1036
+L'ottimo corrente è pari a 918
+
+Iterazione #188
+832 -> 802
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #189
+926 -> 903
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #190
+1039 -> 1003
+Il tempo impiegato dalla configurazione attuale è 1095
+L'ottimo corrente è pari a 918
+
+Iterazione #191
+1101 -> 1104
+Il tempo impiegato dalla configurazione attuale è 1087
+L'ottimo corrente è pari a 918
+
+Iterazione #192
+1235 -> 1225
+Il tempo impiegato dalla configurazione attuale è 1086
+L'ottimo corrente è pari a 918
+
+Iterazione #193
+1338 -> 1337
+Il tempo impiegato dalla configurazione attuale è 1086
+L'ottimo corrente è pari a 918
+
+Iterazione #194
+1423 -> 1440
+Il tempo impiegato dalla configurazione attuale è 1098
+L'ottimo corrente è pari a 918
+
+Iterazione #195
+1539 -> 1505
+Il tempo impiegato dalla configurazione attuale è 1103
+L'ottimo corrente è pari a 918
+
+Iterazione #196
+1613 -> 1603
+Il tempo impiegato dalla configurazione attuale è 1125
+L'ottimo corrente è pari a 918
+
+Iterazione #197
+1721 -> 1728
+Il tempo impiegato dalla configurazione attuale è 1118
+L'ottimo corrente è pari a 918
+
+Iterazione #198
+1820 -> 1835
+Il tempo impiegato dalla configurazione attuale è 1132
+L'ottimo corrente è pari a 918
+
+Iterazione #199
+1919 -> 1913
+Il tempo impiegato dalla configurazione attuale è 1134
+L'ottimo corrente è pari a 918
+
+Iterazione #200
+2008 -> 2010
+Il tempo impiegato dalla configurazione attuale è 1140
+L'ottimo corrente è pari a 918
+
+Iterazione #201
+116 -> 114
+Il tempo impiegato dalla configurazione attuale è 1129
+L'ottimo corrente è pari a 918
+
+Iterazione #202
+203 -> 225
+Il tempo impiegato dalla configurazione attuale è 1094
+L'ottimo corrente è pari a 918
+
+Iterazione #203
+320 -> 319
+Il tempo impiegato dalla configurazione attuale è 1096
+L'ottimo corrente è pari a 918
+
+Iterazione #204
+403 -> 438
+Il tempo impiegato dalla configurazione attuale è 1070
+L'ottimo corrente è pari a 918
+
+Iterazione #205
+507 -> 512
+Il tempo impiegato dalla configurazione attuale è 1062
+L'ottimo corrente è pari a 918
+
+Iterazione #206
+638 -> 634
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 918
+
+Iterazione #207
+735 -> 723
+Il tempo impiegato dalla configurazione attuale è 1060
+L'ottimo corrente è pari a 918
+
+Iterazione #208
+802 -> 817
+Il tempo impiegato dalla configurazione attuale è 1034
+L'ottimo corrente è pari a 918
+
+Iterazione #209
+903 -> 932
+Il tempo impiegato dalla configurazione attuale è 1005
+L'ottimo corrente è pari a 918
+
+Iterazione #210
+1003 -> 1023
+Il tempo impiegato dalla configurazione attuale è 980
+L'ottimo corrente è pari a 918
+
+Iterazione #211
+1104 -> 1130
+Il tempo impiegato dalla configurazione attuale è 968
+L'ottimo corrente è pari a 918
+
+Iterazione #212
+1225 -> 1207
+Il tempo impiegato dalla configurazione attuale è 963
+L'ottimo corrente è pari a 918
+
+Iterazione #213
+1337 -> 1307
+Il tempo impiegato dalla configurazione attuale è 972
+L'ottimo corrente è pari a 918
+
+Iterazione #214
+1440 -> 1434
+Il tempo impiegato dalla configurazione attuale è 976
+L'ottimo corrente è pari a 918
+
+Iterazione #215
+1505 -> 1519
+Il tempo impiegato dalla configurazione attuale è 957
+L'ottimo corrente è pari a 918
+
+Iterazione #216
+1603 -> 1639
+Il tempo impiegato dalla configurazione attuale è 946
+L'ottimo corrente è pari a 918
+
+Iterazione #217
+1728 -> 1707
+Il tempo impiegato dalla configurazione attuale è 943
+L'ottimo corrente è pari a 918
+
+Iterazione #218
+1835 -> 1813
+Il tempo impiegato dalla configurazione attuale è 961
+L'ottimo corrente è pari a 918
+
+Iterazione #219
+1913 -> 1926
+Il tempo impiegato dalla configurazione attuale è 955
+L'ottimo corrente è pari a 918
+
+Iterazione #220
+2010 -> 2003
+Il tempo impiegato dalla configurazione attuale è 957
+L'ottimo corrente è pari a 918
+
+Iterazione #221
+114 -> 109
+Il tempo impiegato dalla configurazione attuale è 963
+L'ottimo corrente è pari a 918
+
+Iterazione #222
+225 -> 202
+Il tempo impiegato dalla configurazione attuale è 1002
+L'ottimo corrente è pari a 918
+
+Iterazione #223
+319 -> 310
+Il tempo impiegato dalla configurazione attuale è 1014
+L'ottimo corrente è pari a 918
+
+Iterazione #224
+438 -> 414
+Il tempo impiegato dalla configurazione attuale è 1022
+L'ottimo corrente è pari a 918
+
+Iterazione #225
+512 -> 507
+Il tempo impiegato dalla configurazione attuale è 1034
+L'ottimo corrente è pari a 918
+
+Iterazione #226
+634 -> 620
+Il tempo impiegato dalla configurazione attuale è 1034
+L'ottimo corrente è pari a 918
+
+Iterazione #227
+723 -> 731
+Il tempo impiegato dalla configurazione attuale è 1044
+L'ottimo corrente è pari a 918
+
+Iterazione #228
+817 -> 811
+Il tempo impiegato dalla configurazione attuale è 1045
+L'ottimo corrente è pari a 918
+
+Iterazione #229
+932 -> 914
+Il tempo impiegato dalla configurazione attuale è 1046
+L'ottimo corrente è pari a 918
+
+Iterazione #230
+1023 -> 1038
+Il tempo impiegato dalla configurazione attuale è 1057
+L'ottimo corrente è pari a 918
+
+Iterazione #231
+1130 -> 1118
+Il tempo impiegato dalla configurazione attuale è 1060
+L'ottimo corrente è pari a 918
+
+Iterazione #232
+1207 -> 1232
+Il tempo impiegato dalla configurazione attuale è 1041
+L'ottimo corrente è pari a 918
+
+Iterazione #233
+1307 -> 1322
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #234
+1434 -> 1416
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #235
+1519 -> 1526
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #236
+1639 -> 1603
+Il tempo impiegato dalla configurazione attuale è 1066
+L'ottimo corrente è pari a 918
+
+Iterazione #237
+1707 -> 1724
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #238
+1813 -> 1822
+Il tempo impiegato dalla configurazione attuale è 1040
+L'ottimo corrente è pari a 918
+
+Iterazione #239
+1926 -> 1935
+Il tempo impiegato dalla configurazione attuale è 1030
+L'ottimo corrente è pari a 918
+
+Iterazione #240
+2003 -> 2034
+Il tempo impiegato dalla configurazione attuale è 1015
+L'ottimo corrente è pari a 918
+
+Iterazione #241
+109 -> 119
+Il tempo impiegato dalla configurazione attuale è 1009
+L'ottimo corrente è pari a 918
+
+Iterazione #242
+202 -> 228
+Il tempo impiegato dalla configurazione attuale è 976
+L'ottimo corrente è pari a 918
+
+Iterazione #243
+310 -> 305
+Il tempo impiegato dalla configurazione attuale è 985
+L'ottimo corrente è pari a 918
+
+Iterazione #244
+414 -> 429
+Il tempo impiegato dalla configurazione attuale è 970
+L'ottimo corrente è pari a 918
+
+Iterazione #245
+507 -> 532
+Il tempo impiegato dalla configurazione attuale è 962
+L'ottimo corrente è pari a 918
+
+Iterazione #246
+620 -> 637
+Il tempo impiegato dalla configurazione attuale è 979
+L'ottimo corrente è pari a 918
+
+Iterazione #247
+731 -> 714
+Il tempo impiegato dalla configurazione attuale è 968
+L'ottimo corrente è pari a 918
+
+Iterazione #248
+811 -> 832
+Il tempo impiegato dalla configurazione attuale è 953
+L'ottimo corrente è pari a 918
+
+Iterazione #249
+914 -> 932
+Il tempo impiegato dalla configurazione attuale è 971
+L'ottimo corrente è pari a 918
+
+Iterazione #250
+1038 -> 1032
+Il tempo impiegato dalla configurazione attuale è 967
+L'ottimo corrente è pari a 918
+
+Iterazione #251
+1118 -> 1137
+Il tempo impiegato dalla configurazione attuale è 985
+L'ottimo corrente è pari a 918
+
+Iterazione #252
+1232 -> 1236
+Il tempo impiegato dalla configurazione attuale è 989
+L'ottimo corrente è pari a 918
+
+Iterazione #253
+1322 -> 1318
+Il tempo impiegato dalla configurazione attuale è 987
+L'ottimo corrente è pari a 918
+
+Iterazione #254
+1416 -> 1439
+Il tempo impiegato dalla configurazione attuale è 998
+L'ottimo corrente è pari a 918
+
+Iterazione #255
+1526 -> 1512
+Il tempo impiegato dalla configurazione attuale è 992
+L'ottimo corrente è pari a 918
+
+Iterazione #256
+1603 -> 1635
+Il tempo impiegato dalla configurazione attuale è 962
+L'ottimo corrente è pari a 918
+
+Iterazione #257
+1724 -> 1701
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #258
+1822 -> 1837
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #259
+1935 -> 1931
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #260
+2034 -> 2010
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 918
+
+Iterazione #261
+119 -> 119
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 918
+
+Iterazione #262
+228 -> 212
+Il tempo impiegato dalla configurazione attuale è 1022
+L'ottimo corrente è pari a 918
+
+Iterazione #263
+305 -> 332
+Il tempo impiegato dalla configurazione attuale è 1001
+L'ottimo corrente è pari a 918
+
+Iterazione #264
+429 -> 419
+Il tempo impiegato dalla configurazione attuale è 992
+L'ottimo corrente è pari a 918
+
+Iterazione #265
+532 -> 535
+Il tempo impiegato dalla configurazione attuale è 992
+L'ottimo corrente è pari a 918
+
+Iterazione #266
+637 -> 639
+Il tempo impiegato dalla configurazione attuale è 991
+L'ottimo corrente è pari a 918
+
+Iterazione #267
+714 -> 734
+Il tempo impiegato dalla configurazione attuale è 1010
+L'ottimo corrente è pari a 918
+
+Iterazione #268
+832 -> 805
+Il tempo impiegato dalla configurazione attuale è 1005
+L'ottimo corrente è pari a 918
+
+Iterazione #269
+932 -> 916
+Il tempo impiegato dalla configurazione attuale è 1000
+L'ottimo corrente è pari a 918
+
+Iterazione #270
+1032 -> 1033
+Il tempo impiegato dalla configurazione attuale è 1000
+L'ottimo corrente è pari a 918
+
+Iterazione #271
+1137 -> 1132
+Il tempo impiegato dalla configurazione attuale è 996
+L'ottimo corrente è pari a 918
+
+Iterazione #272
+1236 -> 1217
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #273
+1318 -> 1318
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #274
+1439 -> 1406
+Il tempo impiegato dalla configurazione attuale è 1009
+L'ottimo corrente è pari a 918
+
+Iterazione #275
+1512 -> 1502
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #276
+1635 -> 1620
+Il tempo impiegato dalla configurazione attuale è 1041
+L'ottimo corrente è pari a 918
+
+Iterazione #277
+1701 -> 1726
+Il tempo impiegato dalla configurazione attuale è 1025
+L'ottimo corrente è pari a 918
+
+Iterazione #278
+1837 -> 1801
+Il tempo impiegato dalla configurazione attuale è 1042
+L'ottimo corrente è pari a 918
+
+Iterazione #279
+1931 -> 1927
+Il tempo impiegato dalla configurazione attuale è 1040
+L'ottimo corrente è pari a 918
+
+Iterazione #280
+2010 -> 2039
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 918
+
+Iterazione #281
+119 -> 115
+Il tempo impiegato dalla configurazione attuale è 1016
+L'ottimo corrente è pari a 918
+
+Iterazione #282
+212 -> 221
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #283
+332 -> 314
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 918
+
+Iterazione #284
+419 -> 401
+Il tempo impiegato dalla configurazione attuale è 1047
+L'ottimo corrente è pari a 918
+
+Iterazione #285
+535 -> 526
+Il tempo impiegato dalla configurazione attuale è 1047
+L'ottimo corrente è pari a 918
+
+Iterazione #286
+639 -> 605
+Il tempo impiegato dalla configurazione attuale è 1053
+L'ottimo corrente è pari a 918
+
+Iterazione #287
+734 -> 735
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #288
+805 -> 825
+Il tempo impiegato dalla configurazione attuale è 1042
+L'ottimo corrente è pari a 918
+
+Iterazione #289
+916 -> 926
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #290
+1033 -> 1002
+Il tempo impiegato dalla configurazione attuale è 1061
+L'ottimo corrente è pari a 918
+
+Iterazione #291
+1132 -> 1139
+Il tempo impiegato dalla configurazione attuale è 1061
+L'ottimo corrente è pari a 918
+
+Iterazione #292
+1217 -> 1202
+Il tempo impiegato dalla configurazione attuale è 1078
+L'ottimo corrente è pari a 918
+
+Iterazione #293
+1318 -> 1328
+Il tempo impiegato dalla configurazione attuale è 1070
+L'ottimo corrente è pari a 918
+
+Iterazione #294
+1406 -> 1426
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #295
+1502 -> 1501
+Il tempo impiegato dalla configurazione attuale è 1058
+L'ottimo corrente è pari a 918
+
+Iterazione #296
+1620 -> 1602
+Il tempo impiegato dalla configurazione attuale è 1089
+L'ottimo corrente è pari a 918
+
+Iterazione #297
+1726 -> 1735
+Il tempo impiegato dalla configurazione attuale è 1075
+L'ottimo corrente è pari a 918
+
+Iterazione #298
+1801 -> 1818
+Il tempo impiegato dalla configurazione attuale è 1049
+L'ottimo corrente è pari a 918
+
+Iterazione #299
+1927 -> 1939
+Il tempo impiegato dalla configurazione attuale è 1058
+L'ottimo corrente è pari a 918
+
+Iterazione #300
+2039 -> 2036
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #301
+115 -> 108
+Il tempo impiegato dalla configurazione attuale è 1065
+L'ottimo corrente è pari a 918
+
+Iterazione #302
+221 -> 218
+Il tempo impiegato dalla configurazione attuale è 1062
+L'ottimo corrente è pari a 918
+
+Iterazione #303
+314 -> 335
+Il tempo impiegato dalla configurazione attuale è 1050
+L'ottimo corrente è pari a 918
+
+Iterazione #304
+401 -> 423
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #305
+526 -> 530
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #306
+605 -> 629
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 918
+
+Iterazione #307
+735 -> 705
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #308
+825 -> 829
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #309
+926 -> 926
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #310
+1002 -> 1040
+Il tempo impiegato dalla configurazione attuale è 1019
+L'ottimo corrente è pari a 918
+
+Iterazione #311
+1139 -> 1125
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #312
+1202 -> 1204
+Il tempo impiegato dalla configurazione attuale è 1007
+L'ottimo corrente è pari a 918
+
+Iterazione #313
+1328 -> 1330
+Il tempo impiegato dalla configurazione attuale è 1007
+L'ottimo corrente è pari a 918
+
+Iterazione #314
+1426 -> 1403
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #315
+1501 -> 1526
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #316
+1602 -> 1637
+Il tempo impiegato dalla configurazione attuale è 972
+L'ottimo corrente è pari a 918
+
+Iterazione #317
+1735 -> 1735
+Il tempo impiegato dalla configurazione attuale è 972
+L'ottimo corrente è pari a 918
+
+Iterazione #318
+1818 -> 1839
+Il tempo impiegato dalla configurazione attuale è 991
+L'ottimo corrente è pari a 918
+
+Iterazione #319
+1939 -> 1938
+Il tempo impiegato dalla configurazione attuale è 991
+L'ottimo corrente è pari a 918
+
+Iterazione #320
+2036 -> 2020
+Il tempo impiegato dalla configurazione attuale è 993
+L'ottimo corrente è pari a 918
+
+Iterazione #321
+108 -> 111
+Il tempo impiegato dalla configurazione attuale è 996
+L'ottimo corrente è pari a 918
+
+Iterazione #322
+218 -> 217
+Il tempo impiegato dalla configurazione attuale è 996
+L'ottimo corrente è pari a 918
+
+Iterazione #323
+335 -> 310
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #324
+423 -> 406
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #325
+530 -> 532
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #326
+629 -> 616
+Il tempo impiegato dalla configurazione attuale è 1043
+L'ottimo corrente è pari a 918
+
+Iterazione #327
+705 -> 716
+Il tempo impiegato dalla configurazione attuale è 1027
+L'ottimo corrente è pari a 918
+
+Iterazione #328
+829 -> 803
+Il tempo impiegato dalla configurazione attuale è 1046
+L'ottimo corrente è pari a 918
+
+Iterazione #329
+926 -> 924
+Il tempo impiegato dalla configurazione attuale è 1046
+L'ottimo corrente è pari a 918
+
+Iterazione #330
+1040 -> 1016
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #331
+1125 -> 1109
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 918
+
+Iterazione #332
+1204 -> 1213
+Il tempo impiegato dalla configurazione attuale è 1040
+L'ottimo corrente è pari a 918
+
+Iterazione #333
+1330 -> 1314
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #334
+1403 -> 1431
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #335
+1526 -> 1529
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #336
+1637 -> 1636
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #337
+1735 -> 1718
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #338
+1839 -> 1808
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #339
+1938 -> 1937
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #340
+2020 -> 2016
+Il tempo impiegato dalla configurazione attuale è 1014
+L'ottimo corrente è pari a 918
+
+Iterazione #341
+111 -> 109
+Il tempo impiegato dalla configurazione attuale è 1009
+L'ottimo corrente è pari a 918
+
+Iterazione #342
+217 -> 221
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #343
+310 -> 324
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #344
+406 -> 406
+Il tempo impiegato dalla configurazione attuale è 983
+L'ottimo corrente è pari a 918
+
+Iterazione #345
+532 -> 531
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #346
+616 -> 612
+Il tempo impiegato dalla configurazione attuale è 988
+L'ottimo corrente è pari a 918
+
+Iterazione #347
+716 -> 732
+Il tempo impiegato dalla configurazione attuale è 973
+L'ottimo corrente è pari a 918
+
+Iterazione #348
+803 -> 824
+Il tempo impiegato dalla configurazione attuale è 959
+L'ottimo corrente è pari a 918
+
+Iterazione #349
+924 -> 907
+Il tempo impiegato dalla configurazione attuale è 974
+L'ottimo corrente è pari a 918
+
+Iterazione #350
+1016 -> 1035
+Il tempo impiegato dalla configurazione attuale è 953
+L'ottimo corrente è pari a 918
+
+Iterazione #351
+1109 -> 1101
+Il tempo impiegato dalla configurazione attuale è 970
+L'ottimo corrente è pari a 918
+
+Iterazione #352
+1213 -> 1216
+Il tempo impiegato dalla configurazione attuale è 973
+L'ottimo corrente è pari a 918
+
+Iterazione #353
+1314 -> 1309
+Il tempo impiegato dalla configurazione attuale è 982
+L'ottimo corrente è pari a 918
+
+Iterazione #354
+1431 -> 1412
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #355
+1529 -> 1522
+Il tempo impiegato dalla configurazione attuale è 986
+L'ottimo corrente è pari a 918
+
+Iterazione #356
+1636 -> 1634
+Il tempo impiegato dalla configurazione attuale è 979
+L'ottimo corrente è pari a 918
+
+Iterazione #357
+1718 -> 1705
+Il tempo impiegato dalla configurazione attuale è 998
+L'ottimo corrente è pari a 918
+
+Iterazione #358
+1808 -> 1806
+Il tempo impiegato dalla configurazione attuale è 1005
+L'ottimo corrente è pari a 918
+
+Iterazione #359
+1937 -> 1905
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #360
+2016 -> 2029
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #361
+109 -> 102
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #362
+221 -> 224
+Il tempo impiegato dalla configurazione attuale è 1030
+L'ottimo corrente è pari a 918
+
+Iterazione #363
+324 -> 324
+Il tempo impiegato dalla configurazione attuale è 1030
+L'ottimo corrente è pari a 918
+
+Iterazione #364
+406 -> 420
+Il tempo impiegato dalla configurazione attuale è 1015
+L'ottimo corrente è pari a 918
+
+Iterazione #365
+531 -> 508
+Il tempo impiegato dalla configurazione attuale è 1023
+L'ottimo corrente è pari a 918
+
+Iterazione #366
+612 -> 634
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #367
+732 -> 736
+Il tempo impiegato dalla configurazione attuale è 1025
+L'ottimo corrente è pari a 918
+
+Iterazione #368
+824 -> 802
+Il tempo impiegato dalla configurazione attuale è 1055
+L'ottimo corrente è pari a 918
+
+Iterazione #369
+907 -> 903
+Il tempo impiegato dalla configurazione attuale è 1062
+L'ottimo corrente è pari a 918
+
+Iterazione #370
+1035 -> 1027
+Il tempo impiegato dalla configurazione attuale è 1072
+L'ottimo corrente è pari a 918
+
+Iterazione #371
+1101 -> 1128
+Il tempo impiegato dalla configurazione attuale è 1043
+L'ottimo corrente è pari a 918
+
+Iterazione #372
+1216 -> 1224
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #373
+1309 -> 1321
+Il tempo impiegato dalla configurazione attuale è 1029
+L'ottimo corrente è pari a 918
+
+Iterazione #374
+1412 -> 1402
+Il tempo impiegato dalla configurazione attuale è 1052
+L'ottimo corrente è pari a 918
+
+Iterazione #375
+1522 -> 1513
+Il tempo impiegato dalla configurazione attuale è 1052
+L'ottimo corrente è pari a 918
+
+Iterazione #376
+1634 -> 1640
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #377
+1705 -> 1729
+Il tempo impiegato dalla configurazione attuale è 1036
+L'ottimo corrente è pari a 918
+
+Iterazione #378
+1806 -> 1834
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #379
+1905 -> 1906
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 918
+
+Iterazione #380
+2029 -> 2002
+Il tempo impiegato dalla configurazione attuale è 1050
+L'ottimo corrente è pari a 918
+
+Iterazione #381
+102 -> 133
+Il tempo impiegato dalla configurazione attuale è 1055
+L'ottimo corrente è pari a 918
+
+Iterazione #382
+224 -> 208
+Il tempo impiegato dalla configurazione attuale è 1064
+L'ottimo corrente è pari a 918
+
+Iterazione #383
+324 -> 324
+Il tempo impiegato dalla configurazione attuale è 1064
+L'ottimo corrente è pari a 918
+
+Iterazione #384
+420 -> 410
+Il tempo impiegato dalla configurazione attuale è 1079
+L'ottimo corrente è pari a 918
+
+Iterazione #385
+508 -> 538
+Il tempo impiegato dalla configurazione attuale è 1073
+L'ottimo corrente è pari a 918
+
+Iterazione #386
+634 -> 621
+Il tempo impiegato dalla configurazione attuale è 1065
+L'ottimo corrente è pari a 918
+
+Iterazione #387
+736 -> 704
+Il tempo impiegato dalla configurazione attuale è 1087
+L'ottimo corrente è pari a 918
+
+Iterazione #388
+802 -> 802
+Il tempo impiegato dalla configurazione attuale è 1087
+L'ottimo corrente è pari a 918
+
+Iterazione #389
+903 -> 932
+Il tempo impiegato dalla configurazione attuale è 1063
+L'ottimo corrente è pari a 918
+
+Iterazione #390
+1027 -> 1018
+Il tempo impiegato dalla configurazione attuale è 1053
+L'ottimo corrente è pari a 918
+
+Iterazione #391
+1128 -> 1130
+Il tempo impiegato dalla configurazione attuale è 1053
+L'ottimo corrente è pari a 918
+
+Iterazione #392
+1224 -> 1223
+Il tempo impiegato dalla configurazione attuale è 1053
+L'ottimo corrente è pari a 918
+
+Iterazione #393
+1321 -> 1322
+Il tempo impiegato dalla configurazione attuale è 1048
+L'ottimo corrente è pari a 918
+
+Iterazione #394
+1402 -> 1428
+Il tempo impiegato dalla configurazione attuale è 1015
+L'ottimo corrente è pari a 918
+
+Iterazione #395
+1513 -> 1507
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #396
+1640 -> 1614
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #397
+1729 -> 1721
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #398
+1834 -> 1837
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #399
+1906 -> 1924
+Il tempo impiegato dalla configurazione attuale è 1010
+L'ottimo corrente è pari a 918
+
+Iterazione #400
+2002 -> 2004
+Il tempo impiegato dalla configurazione attuale è 1014
+L'ottimo corrente è pari a 918
+
+Iterazione #401
+133 -> 137
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #402
+208 -> 237
+Il tempo impiegato dalla configurazione attuale è 1023
+L'ottimo corrente è pari a 918
+
+Iterazione #403
+324 -> 320
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #404
+410 -> 430
+Il tempo impiegato dalla configurazione attuale è 1023
+L'ottimo corrente è pari a 918
+
+Iterazione #405
+538 -> 535
+Il tempo impiegato dalla configurazione attuale è 1019
+L'ottimo corrente è pari a 918
+
+Iterazione #406
+621 -> 601
+Il tempo impiegato dalla configurazione attuale è 1042
+L'ottimo corrente è pari a 918
+
+Iterazione #407
+704 -> 713
+Il tempo impiegato dalla configurazione attuale è 1023
+L'ottimo corrente è pari a 918
+
+Iterazione #408
+802 -> 804
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #409
+932 -> 940
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #410
+1018 -> 1018
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #411
+1130 -> 1126
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #412
+1223 -> 1223
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #413
+1322 -> 1326
+Il tempo impiegato dalla configurazione attuale è 1029
+L'ottimo corrente è pari a 918
+
+Iterazione #414
+1428 -> 1401
+Il tempo impiegato dalla configurazione attuale è 1070
+L'ottimo corrente è pari a 918
+
+Iterazione #415
+1507 -> 1521
+Il tempo impiegato dalla configurazione attuale è 1049
+L'ottimo corrente è pari a 918
+
+Iterazione #416
+1614 -> 1639
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #417
+1721 -> 1703
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #418
+1837 -> 1832
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #419
+1924 -> 1907
+Il tempo impiegato dalla configurazione attuale è 1079
+L'ottimo corrente è pari a 918
+
+Iterazione #420
+2004 -> 2023
+Il tempo impiegato dalla configurazione attuale è 1042
+L'ottimo corrente è pari a 918
+
+Iterazione #421
+137 -> 101
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #422
+237 -> 214
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #423
+320 -> 330
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #424
+430 -> 427
+Il tempo impiegato dalla configurazione attuale è 1035
+L'ottimo corrente è pari a 918
+
+Iterazione #425
+535 -> 504
+Il tempo impiegato dalla configurazione attuale è 1061
+L'ottimo corrente è pari a 918
+
+Iterazione #426
+601 -> 630
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 918
+
+Iterazione #427
+713 -> 738
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #428
+804 -> 834
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #429
+940 -> 924
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #430
+1018 -> 1028
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 918
+
+Iterazione #431
+1126 -> 1119
+Il tempo impiegato dalla configurazione attuale è 1009
+L'ottimo corrente è pari a 918
+
+Iterazione #432
+1223 -> 1204
+Il tempo impiegato dalla configurazione attuale è 1025
+L'ottimo corrente è pari a 918
+
+Iterazione #433
+1326 -> 1302
+Il tempo impiegato dalla configurazione attuale è 1056
+L'ottimo corrente è pari a 918
+
+Iterazione #434
+1401 -> 1421
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #435
+1521 -> 1536
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #436
+1639 -> 1639
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #437
+1703 -> 1704
+Il tempo impiegato dalla configurazione attuale è 1031
+L'ottimo corrente è pari a 918
+
+Iterazione #438
+1832 -> 1821
+Il tempo impiegato dalla configurazione attuale è 1040
+L'ottimo corrente è pari a 918
+
+Iterazione #439
+1907 -> 1909
+Il tempo impiegato dalla configurazione attuale è 1034
+L'ottimo corrente è pari a 918
+
+Iterazione #440
+2023 -> 2005
+Il tempo impiegato dalla configurazione attuale è 1075
+L'ottimo corrente è pari a 918
+
+Iterazione #441
+101 -> 113
+Il tempo impiegato dalla configurazione attuale è 1059
+L'ottimo corrente è pari a 918
+
+Iterazione #442
+214 -> 226
+Il tempo impiegato dalla configurazione attuale è 1058
+L'ottimo corrente è pari a 918
+
+Iterazione #443
+330 -> 314
+Il tempo impiegato dalla configurazione attuale è 1058
+L'ottimo corrente è pari a 918
+
+Iterazione #444
+427 -> 436
+Il tempo impiegato dalla configurazione attuale è 1067
+L'ottimo corrente è pari a 918
+
+Iterazione #445
+504 -> 523
+Il tempo impiegato dalla configurazione attuale è 1049
+L'ottimo corrente è pari a 918
+
+Iterazione #446
+630 -> 637
+Il tempo impiegato dalla configurazione attuale è 1058
+L'ottimo corrente è pari a 918
+
+Iterazione #447
+738 -> 710
+Il tempo impiegato dalla configurazione attuale è 1044
+L'ottimo corrente è pari a 918
+
+Iterazione #448
+834 -> 802
+Il tempo impiegato dalla configurazione attuale è 1067
+L'ottimo corrente è pari a 918
+
+Iterazione #449
+924 -> 916
+Il tempo impiegato dalla configurazione attuale è 1067
+L'ottimo corrente è pari a 918
+
+Iterazione #450
+1028 -> 1020
+Il tempo impiegato dalla configurazione attuale è 1066
+L'ottimo corrente è pari a 918
+
+Iterazione #451
+1119 -> 1136
+Il tempo impiegato dalla configurazione attuale è 1079
+L'ottimo corrente è pari a 918
+
+Iterazione #452
+1204 -> 1236
+Il tempo impiegato dalla configurazione attuale è 1070
+L'ottimo corrente è pari a 918
+
+Iterazione #453
+1302 -> 1314
+Il tempo impiegato dalla configurazione attuale è 1044
+L'ottimo corrente è pari a 918
+
+Iterazione #454
+1421 -> 1420
+Il tempo impiegato dalla configurazione attuale è 1044
+L'ottimo corrente è pari a 918
+
+Iterazione #455
+1536 -> 1526
+Il tempo impiegato dalla configurazione attuale è 1034
+L'ottimo corrente è pari a 918
+
+Iterazione #456
+1639 -> 1603
+Il tempo impiegato dalla configurazione attuale è 1063
+L'ottimo corrente è pari a 918
+
+Iterazione #457
+1704 -> 1732
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #458
+1821 -> 1810
+Il tempo impiegato dalla configurazione attuale è 1045
+L'ottimo corrente è pari a 918
+
+Iterazione #459
+1909 -> 1909
+Il tempo impiegato dalla configurazione attuale è 1045
+L'ottimo corrente è pari a 918
+
+Iterazione #460
+2005 -> 2020
+Il tempo impiegato dalla configurazione attuale è 1016
+L'ottimo corrente è pari a 918
+
+Iterazione #461
+113 -> 102
+Il tempo impiegato dalla configurazione attuale è 1026
+L'ottimo corrente è pari a 918
+
+Iterazione #462
+226 -> 206
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #463
+314 -> 340
+Il tempo impiegato dalla configurazione attuale è 1052
+L'ottimo corrente è pari a 918
+
+Iterazione #464
+436 -> 402
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #465
+523 -> 527
+Il tempo impiegato dalla configurazione attuale è 1054
+L'ottimo corrente è pari a 918
+
+Iterazione #466
+637 -> 620
+Il tempo impiegato dalla configurazione attuale è 1042
+L'ottimo corrente è pari a 918
+
+Iterazione #467
+710 -> 718
+Il tempo impiegato dalla configurazione attuale è 1028
+L'ottimo corrente è pari a 918
+
+Iterazione #468
+802 -> 832
+Il tempo impiegato dalla configurazione attuale è 1006
+L'ottimo corrente è pari a 918
+
+Iterazione #469
+916 -> 921
+Il tempo impiegato dalla configurazione attuale è 1007
+L'ottimo corrente è pari a 918
+
+Iterazione #470
+1020 -> 1030
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #471
+1136 -> 1104
+Il tempo impiegato dalla configurazione attuale è 1003
+L'ottimo corrente è pari a 918
+
+Iterazione #472
+1236 -> 1227
+Il tempo impiegato dalla configurazione attuale è 998
+L'ottimo corrente è pari a 918
+
+Iterazione #473
+1314 -> 1304
+Il tempo impiegato dalla configurazione attuale è 1019
+L'ottimo corrente è pari a 918
+
+Iterazione #474
+1420 -> 1413
+Il tempo impiegato dalla configurazione attuale è 1021
+L'ottimo corrente è pari a 918
+
+Iterazione #475
+1526 -> 1506
+Il tempo impiegato dalla configurazione attuale è 1048
+L'ottimo corrente è pari a 918
+
+Iterazione #476
+1603 -> 1612
+Il tempo impiegato dalla configurazione attuale è 1030
+L'ottimo corrente è pari a 918
+
+Iterazione #477
+1732 -> 1734
+Il tempo impiegato dalla configurazione attuale è 1024
+L'ottimo corrente è pari a 918
+
+Iterazione #478
+1810 -> 1839
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 918
+
+Iterazione #479
+1909 -> 1915
+Il tempo impiegato dalla configurazione attuale è 1008
+L'ottimo corrente è pari a 918
+
+Iterazione #480
+2020 -> 2009
+Il tempo impiegato dalla configurazione attuale è 1025
+L'ottimo corrente è pari a 918
+
+Iterazione #481
+102 -> 127
+Il tempo impiegato dalla configurazione attuale è 1020
+L'ottimo corrente è pari a 918
+
+Iterazione #482
+206 -> 233
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 918
+
+Iterazione #483
+340 -> 334
+Il tempo impiegato dalla configurazione attuale è 1017
+L'ottimo corrente è pari a 918
+
+Iterazione #484
+402 -> 427
+Il tempo impiegato dalla configurazione attuale è 1005
+L'ottimo corrente è pari a 918
+
+Iterazione #485
+527 -> 502
+Il tempo impiegato dalla configurazione attuale è 1032
+L'ottimo corrente è pari a 918
+
+Iterazione #486
+620 -> 611
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #487
+718 -> 740
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #488
+832 -> 819
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #489
+921 -> 921
+Il tempo impiegato dalla configurazione attuale è 1037
+L'ottimo corrente è pari a 918
+
+Iterazione #490
+1030 -> 1011
+Il tempo impiegato dalla configurazione attuale è 1057
+L'ottimo corrente è pari a 918
+
+Iterazione #491
+1104 -> 1109
+Il tempo impiegato dalla configurazione attuale è 1049
+L'ottimo corrente è pari a 918
+
+Iterazione #492
+1227 -> 1222
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #493
+1304 -> 1304
+Il tempo impiegato dalla configurazione attuale è 1051
+L'ottimo corrente è pari a 918
+
+Iterazione #494
+1413 -> 1439
+Il tempo impiegato dalla configurazione attuale è 1033
+L'ottimo corrente è pari a 918
+
+Iterazione #495
+1506 -> 1518
+Il tempo impiegato dalla configurazione attuale è 1018
+L'ottimo corrente è pari a 918
+
+Iterazione #496
+1612 -> 1608
+Il tempo impiegato dalla configurazione attuale è 1027
+L'ottimo corrente è pari a 918
+
+Iterazione #497
+1734 -> 1735
+Il tempo impiegato dalla configurazione attuale è 1027
+L'ottimo corrente è pari a 918
+
+Iterazione #498
+1839 -> 1820
+Il tempo impiegato dalla configurazione attuale è 1015
+L'ottimo corrente è pari a 918
+
+Iterazione #499
+1915 -> 1928
+Il tempo impiegato dalla configurazione attuale è 1013
+L'ottimo corrente è pari a 918
+
+Iterazione #500
+2009 -> 2006
+Il tempo impiegato dalla configurazione attuale è 1011
+L'ottimo corrente è pari a 918
+
+Completate 500 iterazioni.
+Il valore ottimo ottenuto è pari a 918, con uno schedule che ha la seguente configurazione: [127, 233, 334, 427, 502, 611, 740, 819, 921, 1011, 1109, 1222, 1304, 1439, 1518, 1608, 1735, 1820, 1928, 2006].
+
