@@ -43,7 +43,7 @@ def scegliConfigurazione(nc,dict,job,init):
                     old = schedule[i]
                     schedule[i] = new
                     break
-    return (old,new) 
+        return (old,new) 
 
 def creaSchedule(dict):
     global schedule
@@ -92,12 +92,12 @@ for i in range(1,njob+1):
 time = creaSchedule(d)
 if  (time < ottimo_cor):
     ottimo_cor = time
-print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule))
-print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+"\n")
+print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".")
+print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+".\n")
 
-niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire\n")
+niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire:\n")
 
-for i in range(niterazioni):
+for i in range(int(niterazioni)):
     print("Iterazione #"+str(i+1))
     (old,new) = scegliConfigurazione(nconfigrazioni,d,(i%njob)+1,False)
     print(str(old)+" -> "+str(new))
@@ -108,6 +108,6 @@ for i in range(niterazioni):
         ottimo_schedule = schedule
     print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n")
 
-
-
+print("Completate "+niterazioni+" iterazioni.")
+print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(schedule)+ ".\n")
 
