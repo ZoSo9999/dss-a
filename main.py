@@ -92,8 +92,9 @@ for i in range(1,njob+1):
 time = creaSchedule(d)
 if  (time < ottimo_cor):
     ottimo_cor = time
+ottimo_schedule = schedule.copy()
 print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".", file=fout)
-print("Il tempo impiegato dalla configurazione iniziale è "+str(ottimo_cor)+".\n", file=fout)
+print("Il tempo impiegato dalla configurazione iniziale è "+str(time)+".\n", file=fout)
 
 niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire:\n")
 
@@ -105,9 +106,11 @@ for i in range(int(niterazioni)):
     print("Il tempo impiegato dalla configurazione attuale è "+str(time), file=fout)
     if  (time < ottimo_cor):
         ottimo_cor = time
-        ottimo_schedule = schedule
+        ottimo_schedule = schedule.copy()
+    else:
+        schedule = ottimo_schedule.copy()
     print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n", file=fout)
 
 print("Completate "+niterazioni+" iterazioni.", file=fout)
-print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(schedule)+ ".\n", file=fout)
+print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(ottimo_schedule)+ ".\n", file=fout)
 
