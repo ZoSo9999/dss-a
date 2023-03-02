@@ -1,57 +1,27 @@
-Setup iniziale eseguito correttamente.
-Scelta una configurazione iniziale casuale per tutti i job: [134, 210, 314, 425, 522, 640, 711, 802, 922, 1002, 1111, 1209, 1329, 1433, 1531, 1616, 1731, 1815, 1925, 2005].
-Il tempo impiegato dalla configurazione iniziale è 1030.
+Il valore ottimo ottenuto dalla ripetizione #1 è pari a 801, con uno schedule che ha la seguente configurazione: [113, 229, 315, 425, 515, 625, 713, 827, 919, 1019, 1119, 1220, 1325, 1415, 1523, 1620, 1723, 1825, 1915, 2021].
 
-Iterazione #1
-134 -> 130
-Il tempo impiegato dalla configurazione attuale è 1025
-L'ottimo corrente è pari a 1025
+Il valore ottimo ottenuto dalla ripetizione #2 è pari a 798, con uno schedule che ha la seguente configurazione: [115, 220, 323, 418, 523, 618, 720, 819, 919, 1020, 1119, 1220, 1320, 1420, 1518, 1619, 1723, 1819, 1919, 2022].
 
-Iterazione #2
-210 -> 221
-Il tempo impiegato dalla configurazione attuale è 1025
-L'ottimo corrente è pari a 1025
+Il valore ottimo ottenuto dalla ripetizione #3 è pari a 797, con uno schedule che ha la seguente configurazione: [115, 219, 325, 415, 522, 625, 715, 823, 920, 1020, 1117, 1225, 1315, 1429, 1514, 1630, 1715, 1823, 1915, 2027].
 
-Iterazione #3
-314 -> 315
-Il tempo impiegato dalla configurazione attuale è 1024
-L'ottimo corrente è pari a 1024
+Il valore ottimo ottenuto dalla ripetizione #4 è pari a 803, con uno schedule che ha la seguente configurazione: [113, 230, 313, 429, 515, 625, 715, 829, 913, 1029, 1114, 1225, 1315, 1423, 1520, 1620, 1724, 1817, 1927, 2027].
 
-Iterazione #4
-425 -> 426
-Il tempo impiegato dalla configurazione attuale è 1028
-L'ottimo corrente è pari a 1024
+Il valore ottimo ottenuto dalla ripetizione #5 è pari a 809, con uno schedule che ha la seguente configurazione: [113, 223, 318, 425, 515, 629, 713, 830, 920, 1014, 1130, 1213, 1329, 1414, 1530, 1618, 1730, 1815, 1925, 2017].
 
-Iterazione #5
-522 -> 507
-Il tempo impiegato dalla configurazione attuale è 1024
-L'ottimo corrente è pari a 1024
+Il valore ottimo ottenuto dalla ripetizione #6 è pari a 823, con uno schedule che ha la seguente configurazione: [108, 240, 309, 434, 515, 623, 719, 819, 915, 1025, 1114, 1229, 1315, 1421, 1525, 1620, 1723, 1819, 1920, 2017].
 
-Iterazione #6
-640 -> 610
-Il tempo impiegato dalla configurazione attuale è 1036
-L'ottimo corrente è pari a 1024
+Il valore ottimo ottenuto dalla ripetizione #7 è pari a 806, con uno schedule che ha la seguente configurazione: [114, 230, 314, 425, 515, 618, 728, 815, 919, 1017, 1125, 1215, 1319, 1425, 1515, 1620, 1725, 1815, 1922, 2021].
 
-Iterazione #7
-711 -> 715
-Il tempo impiegato dalla configurazione attuale è 1012
-L'ottimo corrente è pari a 1012
+Il valore ottimo ottenuto dalla ripetizione #8 è pari a 808, con uno schedule che ha la seguente configurazione: [120, 220, 319, 419, 518, 630, 715, 820, 919, 1017, 1125, 1220, 1314, 1428, 1525, 1615, 1730, 1815, 1925, 2027].
 
-Iterazione #8
-802 -> 820
-Il tempo impiegato dalla configurazione attuale è 987
-L'ottimo corrente è pari a 987
+Il valore ottimo ottenuto dalla ripetizione #9 è pari a 814, con uno schedule che ha la seguente configurazione: [113, 225, 318, 420, 518, 619, 723, 819, 920, 1014, 1122, 1218, 1324, 1419, 1520, 1618, 1729, 1815, 1928, 2017].
 
-Iterazione #9
-922 -> 909
-Il tempo impiegato dalla configurazione attuale è 1000
-L'ottimo corrente è pari a 987
+Il valore ottimo ottenuto dalla ripetizione #10 è pari a 814, con uno schedule che ha la seguente configurazione: [120, 220, 320, 418, 523, 616, 730, 812, 924, 1018, 1117, 1230, 1315, 1423, 1518, 1624, 1720, 1824, 1917, 2027].
 
-Iterazione #10
-1002 -> 1016
-Il tempo impiegato dalla configurazione attuale è 961
-L'ottimo corrente è pari a 961
-
-Completate 10 iterazioni.
-Il valore ottimo ottenuto è pari a 961, con uno schedule che ha la seguente configurazione: [130, 210, 315, 425, 522, 640, 715, 820, 922, 1016, 1111, 1209, 1329, 1433, 1531, 1616, 1731, 1815, 1925, 2005].
-
+La configurazione 113 è usata 4 volte.
+La configurazione 515 è usata 5 volte.
+La configurazione 919 è usata 4 volte.
+La configurazione 1315 è usata 4 volte.
+La configurazione 1620 è usata 4 volte.
+La configurazione 1815 è usata 4 volte.
+La configurazione 2027 è usata 4 volte.

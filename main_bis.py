@@ -9,9 +9,6 @@ fout = open("output.txt", "w")     # File di output
 header = None                       # Non è presente header nel file di input
 sname = "DatiOriginali"             # Nome del foglio da leggere
 nmacchine = 5                       # Numero di macchine del processo
-schedule = []
-ottimo_cor = sys.maxsize
-ottimo_schedule = []
 
 
 def creaDizionario(nj,nc,nr):
@@ -76,41 +73,57 @@ def creaSchedule(dict):
     return times[nmacchine-1]
 
 
-#####################################################################################################################################
+#########################################################################################################################################################
 
 
 dimensions = pd.read_excel(fin, header=header, sheet_name=sname).shape
 nrighe = dimensions[0]              # Numero righe del file
 njob = int(nrighe/nmacchine)        # Numero job da eseguire
-nconfigurazioni = dimensions[1]      # Numero delle diverse configurazioni trovate
+nconfigurazioni = dimensions[1]     # Numero delle diverse configurazioni trovate
+array = [0] * (njob*100+nconfigurazioni)
 
 d = creaDizionario(njob,nconfigurazioni,nrighe)
-print("Setup iniziale eseguito correttamente.", file=fout)
+print("Setup iniziale eseguito correttamente.")
 
-for i in range(1,njob+1):
-    scegliConfigurazione(nconfigurazioni,d,i,True)
-time = creaSchedule(d)
-if  (time < ottimo_cor):
-    ottimo_cor = time
-ottimo_schedule = schedule.copy()
-print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".", file=fout)
-print("Il tempo impiegato dalla configurazione iniziale è "+str(time)+".\n", file=fout)
+nripetizioni = input("Inserire il numero di ripetizioni che si vogliono eseguire:\n")
+niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire per ciascuna ripetizione:\n")
 
-niterazioni = input("Inserire il numero di iterazioni che si vogliono eseguire:\n")
+for i in range(int(nripetizioni)):
 
-for i in range(int(niterazioni)):
-    print("Iterazione #"+str(i+1), file=fout)
-    (old,new) = scegliConfigurazione(nconfigurazioni,d,(i%njob)+1,False)
-    print(str(old)+" -> "+str(new), file=fout)
+    schedule = []
+    ottimo_cor = sys.maxsize
+    ottimo_schedule = []
+
+    for j in range(1,njob+1):
+        scegliConfigurazione(nconfigurazioni,d,j,True)
     time = creaSchedule(d)
-    print("Il tempo impiegato dalla configurazione attuale è "+str(time), file=fout)
     if  (time < ottimo_cor):
         ottimo_cor = time
-        ottimo_schedule = schedule.copy()
-    else:
-        schedule = ottimo_schedule.copy()
-    print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n", file=fout)
+    ottimo_schedule = schedule.copy()
+    # print("Scelta una configurazione iniziale casuale per tutti i job: "+str(schedule)+".", file=fout)
+    # print("Il tempo impiegato dalla configurazione iniziale è "+str(time)+".\n", file=fout)
 
-print("Completate "+niterazioni+" iterazioni.", file=fout)
-print("Il valore ottimo ottenuto è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(ottimo_schedule)+ ".\n", file=fout)
 
+
+    for j in range(int(niterazioni)):
+        # print("Iterazione #"+str(j+1), file=fout)
+        (old,new) = scegliConfigurazione(nconfigurazioni,d,(j%njob)+1,False)
+        # print(str(old)+" -> "+str(new), file=fout)
+        time = creaSchedule(d)
+        # print("Il tempo impiegato dalla configurazione attuale è "+str(time), file=fout)
+        if  (time < ottimo_cor):
+            ottimo_cor = time
+            ottimo_schedule = schedule.copy()
+        else:
+            schedule = ottimo_schedule.copy()
+        # print("L'ottimo corrente è pari a "+str(ottimo_cor)+"\n", file=fout)
+
+    # print("Completate "+niterazioni+" iterazioni.", file=fout)
+    print("Il valore ottimo ottenuto dalla ripetizione #"+str(i+1)+" è pari a "+str(ottimo_cor)+", con uno schedule che ha la seguente configurazione: "+str(ottimo_schedule)+ ".\n", file=fout)
+    for elem in ottimo_schedule:
+        array[elem] += 1
+
+for i in range(len(array)):
+    val = array[i]
+    if val > 3:
+        print("La configurazione "+str(i)+" è usata "+str(val)+" volte.", file=fout)
